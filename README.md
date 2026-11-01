@@ -4,11 +4,11 @@
 
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 An empirical analysis of 2,155 transaction lines in the Northwind Traders B2B dataset. 
 This project identifies that heavy discounting (20%–25%) resulted in **$55,274.80 in gross margin leakage** without producing incremental sales volume.
 
-### 🎯 Primary Recommendation (Stated First)
+###  Primary Recommendation (Stated First)
 > **Immediately eliminate the 20% and 25% discount tiers and enforce a strict 10% maximum self-serve discount ceiling on standard orders.**
 > 
 > * **Expected Financial ROI:** **+$55,274.80** in annualized gross profit recovery over the next 2 quarters.
@@ -16,7 +16,7 @@ This project identifies that heavy discounting (20%–25%) resulted in **$55,274
 
 ---
 
-## 📊 Core Empirical Findings
+## Core Empirical Findings
 1. **Price Inelasticity Proof:**
    * 5% Discount: **28.0 units** average order line quantity.
    * 25% Discount: **28.2 units** average order line quantity.
